@@ -15,7 +15,7 @@ In this repository I followed the algorithm design course of [BTKAkademi](https:
     * Create( , ,  ) (60-78) (`Creates a new file with given in the given path with given name`)
     * Write (83-127) (`Creates a new .txt file and fill it with given text or string matrix`)
     * Add (132-182) (`Adds the given text or string matrix to end of the given file in one line`)
-    * Read (187-211) (`Readsthe readable files`)
+    * Read (187-211) (`Reads the readable files`)
     * Copy To (216-233) (`Copies the file to the given destination`)
     * Delete (238-254) (`Deletes the file`)
 * Matrix.cs
