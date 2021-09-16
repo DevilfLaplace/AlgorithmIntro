@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AlgorithmIntro.File">
+    <Position X="0.5" Y="5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAgAAEAAEAAAEAAAAEAIAA=</HashCode>
+      <FileName>File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AlgorithmIntro.Mathematics">
+    <Position X="0.5" Y="3.25" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQACAQAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Mathematics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AlgorithmIntro.Matrix">
+    <Position X="5.25" Y="0.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>wEBCAAAAAACEAAIAiAAAAAQQAAAACEIAABAAAAAUAQM=</HashCode>
+      <FileName>Matrix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AlgorithmIntro.Program">
+    <Position X="0.5" Y="0.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AlgorithmIntro.String">
+    <Position X="0.5" Y="1.75" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>String.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
