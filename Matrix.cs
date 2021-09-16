@@ -279,7 +279,7 @@ namespace AlgorithmIntro
         }
 
         /// <summary>
-        /// Creates a new two dimensional matrix
+        /// Creates a new one dimensional matrix
         /// </summary>
         /// <param name="length"="length">Line number</param>
         /// <param name="column">Column number</param>
