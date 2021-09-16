@@ -32,7 +32,7 @@ In this repository I followed the algorithm design course of [BTKAkademi](https:
     * Trace Of Matrix (217-236) (`Finds trace of a square matrix`)
     * Diagonal Elements (238-257) (`Finds the numbers on the diagonal matrix of the given square matrix`)
     * Create( , , ,  ) (262-279) (`Creates a new two dimensional matrix`)
-    * Create( , ,  ) (281-296) (`Creates a new two dimensional matrix`)
+    * Create( , ,  ) (281-296) (`Creates a new one dimensional matrix`)
     * Symmetrical Matrix (298-324) (`Creates a symmetrical matrix with random numbers in range of given max and min value`)
     * Clone Numbers Matrix( ,  ) (`Creates a matrix that all the numbers inside is zero`)
     * Clone Number Matrix( , ,  ) (`Creates a that all the numbers inside is given number`)
